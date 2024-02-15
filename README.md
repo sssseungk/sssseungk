@@ -6,6 +6,12 @@
 
 ## Hi there 👋🏻
 
-## Github Stats 📊
+
+## Education 🏅
+<img src="https://img.shields.io/badge/Techit_FE_School-9999FF?style=for-the-badge&logo=codeigniter&logoColor=#F7931A">
+
+
+
+## Stats 📊
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sssseungk&theme=swift)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sssseungk&theme=swift)
