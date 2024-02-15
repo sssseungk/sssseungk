@@ -8,5 +8,4 @@
 
 ## Github Stats 📊
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sssseungk&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssseungk&layout=compact)](https://github.com/iamjinpark/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sssseungk&theme=swift)
