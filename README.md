@@ -8,7 +8,7 @@
 
 
 ## Education 🏅
-<img src="https://img.shields.io/badge/Techit_FE_School-9999FF?style=for-the-badge&logo=codeigniter&logoColor=#F7931A">
+<img src="https://img.shields.io/badge/Techit_FE_School-f7931a?style=for-the-badge&logo=codeigniter&logoColor=#EF4223">
 
 
 
