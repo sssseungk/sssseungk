@@ -7,4 +7,5 @@
 ## Hi there 👋🏻
 
 ## Github Stats 📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssseungk&show_icons=true&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sssseungk&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sssseungk&theme=swift)
