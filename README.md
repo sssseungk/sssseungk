@@ -4,8 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20seungyeon's%20Github!%20&fontSize=30&fontColor=ffffff)
 
 
-## Hi there 👋🏻
-
 ## Tech Stack 🛠️
 ### Skills
 <div style="display:flex">
