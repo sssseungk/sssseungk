@@ -24,7 +24,7 @@
 </div>
 
 ## Education 🏅
-<img src="https://img.shields.io/badge/Techit_FE_School-f7931a?style=for-the-badge&logo=codeigniter&logoColor=#EF4223">
+<img src="https://img.shields.io/badge/Techit_FE_School6-f7931a?style=for-the-badge&logo=codeigniter&logoColor=#EF4223">
 
 
 
